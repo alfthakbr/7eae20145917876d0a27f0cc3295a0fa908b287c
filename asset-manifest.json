@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/css/main.5f361e03.chunk.css",
+    "main.js": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/main.f47c3e0c.chunk.js",
+    "main.js.map": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/main.f47c3e0c.chunk.js.map",
+    "runtime-main.js": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/runtime-main.37cf00f6.js",
+    "runtime-main.js.map": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/runtime-main.37cf00f6.js.map",
+    "static/js/2.37c98106.chunk.js": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/2.37c98106.chunk.js",
+    "static/js/2.37c98106.chunk.js.map": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/2.37c98106.chunk.js.map",
+    "index.html": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/index.html",
+    "precache-manifest.a526ec3bfd5b78d7600fe2bd14a5523b.js": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/precache-manifest.a526ec3bfd5b78d7600fe2bd14a5523b.js",
+    "service-worker.js": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37c98106.chunk.js.LICENSE.txt": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/js/2.37c98106.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/alfthakbr/7eae20145917876d0a27f0cc3295a0fa908b287c/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37cf00f6.js",
+    "static/js/2.37c98106.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f47c3e0c.chunk.js"
+  ]
+}
